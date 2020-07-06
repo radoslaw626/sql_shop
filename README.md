@@ -8,7 +8,7 @@ App made while learning SQL MS Server. Updating, selecting, deleting data from d
 4. Copy Connection String
 5. Search for 'SqlConnection con' in Form1.cs
 6. Change Connection String to your own \
-(current: "Data Source=DESKTOP-8SVGI16;Initial Catalog=TestingDatabase;Integrated Security=True")\
+(current: "Data Source=DESKTOP-8SVGI16;Initial Catalog=TestingDatabase;Integrated Security=True")
 
 ## Testing
 Use login: 1    password: 1  to enter testing Admin panel\
